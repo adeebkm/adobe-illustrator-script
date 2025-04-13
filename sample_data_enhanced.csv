@@ -1,0 +1,7 @@
+Label,Fraction,Direction,Color,FontSize,FontWeight
+Quarter,1/4,horizontal,Blue,14,Regular
+Half,1/2,vertical,Red,16,Bold
+ThreeFourths,3/4,horizontal,Green,14,Regular
+Third,1/3,vertical,Purple,16,Bold
+TwoThirds,2/3,horizontal,Orange,14,Regular
+FourFifths,4/5,vertical,Teal,16,Bold 
